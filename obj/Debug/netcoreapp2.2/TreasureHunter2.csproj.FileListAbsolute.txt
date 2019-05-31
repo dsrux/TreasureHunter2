@@ -1,0 +1,11 @@
+C:\Users\Darren\source\codeworks\TreasureHunter2\obj\Debug\netcoreapp2.2\TreasureHunter2.csprojAssemblyReference.cache
+C:\Users\Darren\source\codeworks\TreasureHunter2\obj\Debug\netcoreapp2.2\TreasureHunter2.csproj.CoreCompileInputs.cache
+C:\Users\Darren\source\codeworks\TreasureHunter2\obj\Debug\netcoreapp2.2\TreasureHunter2.AssemblyInfoInputs.cache
+C:\Users\Darren\source\codeworks\TreasureHunter2\obj\Debug\netcoreapp2.2\TreasureHunter2.AssemblyInfo.cs
+C:\Users\Darren\source\codeworks\TreasureHunter2\bin\Debug\netcoreapp2.2\TreasureHunter2.deps.json
+C:\Users\Darren\source\codeworks\TreasureHunter2\bin\Debug\netcoreapp2.2\TreasureHunter2.runtimeconfig.json
+C:\Users\Darren\source\codeworks\TreasureHunter2\bin\Debug\netcoreapp2.2\TreasureHunter2.runtimeconfig.dev.json
+C:\Users\Darren\source\codeworks\TreasureHunter2\bin\Debug\netcoreapp2.2\TreasureHunter2.dll
+C:\Users\Darren\source\codeworks\TreasureHunter2\bin\Debug\netcoreapp2.2\TreasureHunter2.pdb
+C:\Users\Darren\source\codeworks\TreasureHunter2\obj\Debug\netcoreapp2.2\TreasureHunter2.dll
+C:\Users\Darren\source\codeworks\TreasureHunter2\obj\Debug\netcoreapp2.2\TreasureHunter2.pdb
