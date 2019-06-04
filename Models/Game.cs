@@ -127,10 +127,7 @@ namespace TreasureHunter2.Models
         case "quit":
           GameOver = true;
           break;
-        case "i":
-        case "inventory":
-          ShowInventory();
-          return;
+
         case "g":
         case "go":
           RoomNavigation(option);
@@ -143,6 +140,11 @@ namespace TreasureHunter2.Models
         default:
           System.Console.WriteLine("bad input");
           break;
+
+        case "i":
+        case "inventory":
+          ShowInventory();
+          return;
       }
 
     }
